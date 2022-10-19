@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
-title: 📄
-description: CV - Kristian Wahlroos
+title: 📄 Kristian Wahlroos - CV
+description: Kehittäjä @ Reaktor
+logo: /assets/img/wakr.png
+show_downloads: false
