@@ -7,7 +7,19 @@ kristian.wahlroos@gmail.com
 HELSINKI
 ```
 
-# Koulutus
+Moi! 🙂
+
+Olen aloittanut työurani ohjelmoijana ja ohjelmointi on lähellä sydäntäni edelleen; viimeisen 4 vuoden aikana olen kuitenkin pyrkiytynyt suuntaunumaan yhä enemmän data-analysoinnin pariin.
+
+Omaan +6v kokemusta ohjelmistojen kehittämisestä; vaatimusten määrittelystä, versiohallinnasta, API-rajapintojen muodostamisesta, niiden toiminnan testauksesta, backend-ohjelmoinnista sekä erilaisten tietokantojen ja tietotyyppien hyödyntämisestä, ja myös palveluiden tuottaman datan analysoinnista mm. koneoppimista hyödyntäen.
+
+Tykkään ratkaista ongelmia datan avulla ja moderneilla työkaluilla, enkä säikähdä vaikka löytyisikin jotain legacyä tai eksoottisempiakin työkaluja. Haluan olla mukana tekemässä yhdessä uusia palveluita joista on iloa niitä käyttäville ihmisille, mutta myös palveluita jotka ovat helposti saatavilla.
+
+Python on myös lähellä sydäntäni 🐍
+
+\-KooVee
+
+# Koulutus 📚
 
 ### Helsingin yliopisto - Tietojenkäsittelytiede
 FM-tutkinto 2014-2018 [https://ethesis.helsinki.fi/repository/handle/123456789/22247](https://ethesis.helsinki.fi/repository/handle/123456789/22247)
@@ -16,20 +28,25 @@ Algoritmit, koneoppiminen ja big data.
 
 ---
 
-# Työkokemus
+# Työkokemus 🛠
 
 ### Reaktor 2016 -
 
 Sovelluskehittäjä, konsultointi, Data Engineer ja Data Scientist.
 
-Olen aloittanut full stack -sovelluskehittäjänä ja sittemmin suuntautunut datan käsittelyn pariin. Käsitellyt isoja datamassoja ja analysoinut sekä aktiivista (stream), että passiivista dataa (database). Toteuttanut asiakkaan tarpeisiin vastaavia ratkaisuita erilaisten tiimikokoonpanojen kanssa. Työskennellyt pilviympäristöjen kanssa, pääosin AWS:n, sekä erilaisten virtualisointiratkaisuiden parissa (mm. Docker).
+Olen aloittanut full stack -sovelluskehittäjänä ja sittemmin suuntautunut datan käsittelyn pariin.
+
+Käsitellyt isoja datamassoja ja analysoinut sekä aktiivista (stream), että passiivista dataa (database). Olen tuottanut asiakkaiden datan päälle perinteisempää data-analyysiä (Python + Jupyter) ja dataan perustuen koneoppimista hyödyntäviä algoritmeja.
+
+Toteuttanut asiakkaan tarpeisiin vastaavia ratkaisuita erilaisten tiimikokoonpanojen kanssa. Työskennellyt pilviympäristöjen kanssa, pääosin AWS:n, sekä erilaisten virtualisointiratkaisuiden parissa (mm. Docker).
 
 Vienyt tuotantoon asti useita kertoja mm. CI:n ja CD:n avulla (mm. Jenkins, Travis CI) ja ollut myös toteuttamassa näihin perustuvia ratkaisuita.
 
 Ollut toteutamassa infrastruktuurin pystyttämistä Terraformin avulla ja luonut myös uudelleenkäytettäviä virtuaalikoneita, sekä verkotuksia että palomuurauksia.
 
 ```
-JavaScript, Python, AWS, Terraform, Docker, Kafka, Jupyter Notebook, PostgreSQL, Java
+JavaScript, Python, AWS, Terraform, Docker, Kafka,
+Jupyter Notebook, PostgreSQL, Java, Spark
 ```
 
 ### Helsingin Yliopisto 2015 - 2016
@@ -42,7 +59,7 @@ Java
 
 ### Digital Hammer 2014 - 2014
 
-Pelikehittäjä mobiilille
+Pelikehittäjä mobiilialuistoille.
 
 ```
 Unity, C#
@@ -54,6 +71,17 @@ Tukihenkilö (Help Desk) mm. Windows AD:n kanssa.
 
 ---
 
-# Muut teknologiat
+# Muut teknologiat ja taidot 🤖
+* `Linux`
+* `Bash + Make`
+* `git`
+* `R`
+* Tietoturva; pääsynhallinta/oikeudet, haavoittuvuudet
+* Algoritmit
+* Agile
 
-# Puhutut kielet
+# Puhutut kielet 🏳
+
+* Suomi (äidinkieli)
+* Englanti (hyvä)
+* Ruotsi
