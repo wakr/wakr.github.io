@@ -3,8 +3,8 @@
 [PDF]({{ site.url }}/assets/wakr.pdf)
 
 ```
-email:        kristian.wahlroos@gmail.com
-puh nro:      U2FsdGVkX181yoOeM2aAtQhosMzJ66WGSgkJXtrMFW4=
+email:      kristian.wahlroos@gmail.com
+puh nro:    U2FsdGVkX181yoOeM2aAtQhosMzJ66WGSgkJXtrMFW4=
 HELSINKI
 ```
 
