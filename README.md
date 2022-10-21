@@ -74,6 +74,7 @@ Unity, C#
 ### Hollolan kunta 2013 - 2013
 
 Tukihenkilö (Help Desk) mm. Windows AD:n kanssa.
+
 ---
 
 # Muut teknologiat ja taidot 🤖
