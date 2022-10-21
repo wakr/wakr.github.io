@@ -24,6 +24,7 @@ Python on myös lähellä sydäntäni 🐍
 
 ### Helsingin yliopisto - Tietojenkäsittelytiede
 FM-tutkinto 2014-2018
+
 Pro Gradu (Software Plagiarism Detection Using N-grams): [https://ethesis.helsinki.fi/repository/handle/123456789/22247](https://ethesis.helsinki.fi/repository/handle/123456789/22247)
 
 Algoritmit, koneoppiminen ja big data.
