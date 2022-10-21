@@ -20,6 +20,8 @@ Python on myös lähellä sydäntäni 🐍
 
 \-KooVee
 
+---
+
 # Koulutus 📚
 
 ### Helsingin yliopisto - Tietojenkäsittelytiede
@@ -52,6 +54,7 @@ JavaScript, Python, AWS, Terraform, Docker, Kafka,
 Jupyter Notebook, PostgreSQL, Java, Spark
 ```
 
+---
 ### Helsingin Yliopisto 2015 - 2016
 
 Kurssiohjaaja ohjelmointikurrseilla.
@@ -59,7 +62,7 @@ Kurssiohjaaja ohjelmointikurrseilla.
 ```
 Java
 ```
-
+---
 ### Digital Hammer 2014 - 2014
 
 Pelikehittäjä mobiilialuistoille.
@@ -67,11 +70,10 @@ Pelikehittäjä mobiilialuistoille.
 ```
 Unity, C#
 ```
-
+---
 ### Hollolan kunta 2013 - 2013
 
 Tukihenkilö (Help Desk) mm. Windows AD:n kanssa.
-
 ---
 
 # Muut teknologiat ja taidot 🤖
@@ -83,6 +85,7 @@ Tukihenkilö (Help Desk) mm. Windows AD:n kanssa.
 * Algoritmit
 * Agile
 
+---
 # Puhutut kielet 🏳
 
 * Suomi (äidinkieli)
