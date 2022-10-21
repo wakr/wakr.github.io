@@ -10,11 +10,11 @@ HELSINKI
 
 Moi! 🙂
 
-Olen aloittanut työurani ohjelmoijana ja ohjelmointi on lähellä sydäntäni edelleen; viimeisen 4 vuoden aikana olen kuitenkin pyrkiytynyt suuntaunumaan yhä enemmän data-analysoinnin pariin.
+Olen aloittanut työurani ohjelmoijana ja ohjelmointi on lähellä sydäntäni edelleen; viimeisen 4 vuoden aikana olen kuitenkin pyrkiytynyt suuntautumaan yhä enemmän data-analyysin pariin.
 
-Omaan +6v kokemusta ohjelmistojen kehittämisestä; vaatimusten määrittelystä, versiohallinnasta, API-rajapintojen muodostamisesta, niiden toiminnan testauksesta, backend-ohjelmoinnista sekä erilaisten tietokantojen ja tietotyyppien hyödyntämisestä, ja myös palveluiden tuottaman datan analysoinnista mm. koneoppimista hyödyntäen.
+Minulla on +6v kokemusta ohjelmistojen kehittämisestä; vaatimusten määrittelystä, versiohallinnasta, API-rajapintojen muodostamisesta, niiden toiminnan testauksesta, backend-ohjelmoinnista sekä erilaisten tietokantojen ja tietotyyppien hyödyntämisestä, ja myös palveluiden tuottaman datan analysoinnista mm. koneoppimista hyödyntäen.
 
-Tykkään ratkaista ongelmia datan avulla ja moderneilla työkaluilla, enkä säikähdä vaikka löytyisikin jotain legacyä tai eksoottisempiakin työkaluja. Haluan olla mukana tekemässä yhdessä uusia palveluita joista on iloa niitä käyttäville ihmisille, mutta myös palveluita jotka ovat helposti saatavilla.
+Tykkään ratkaista ongelmia datan avulla ja moderneilla työkaluilla, enkä säikähdä vaikka löytyisikin jotain legacyä tai eksoottisempiakin työkaluja. Haluan olla mukana tekemässä yhdessä uusia palveluita joista on iloa niitä käyttäville ihmisille eli ohjelmistoja joista on ihan oikeasti hyötyä ihmisille.
 
 Python on myös lähellä sydäntäni 🐍
 
@@ -23,7 +23,8 @@ Python on myös lähellä sydäntäni 🐍
 # Koulutus 📚
 
 ### Helsingin yliopisto - Tietojenkäsittelytiede
-FM-tutkinto 2014-2018 [https://ethesis.helsinki.fi/repository/handle/123456789/22247](https://ethesis.helsinki.fi/repository/handle/123456789/22247)
+FM-tutkinto 2014-2018
+Pro Gradu (Software Plagiarism Detection Using N-grams): [https://ethesis.helsinki.fi/repository/handle/123456789/22247](https://ethesis.helsinki.fi/repository/handle/123456789/22247)
 
 Algoritmit, koneoppiminen ja big data.
 
