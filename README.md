@@ -35,7 +35,11 @@ Algoritmit, koneoppiminen ja big data.
 
 # Työkokemus 🛠
 
-### Reaktor 2016 -
+### YLE 2023 -
+
+Data Engineer
+
+### Reaktor 2016 - 2023
 
 Sovelluskehittäjä, konsultointi, Data Engineer ja Data Scientist.
 
