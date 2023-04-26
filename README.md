@@ -39,6 +39,11 @@ Algoritmit, koneoppiminen ja big data.
 
 Data Engineer
 
+```
+SQL, JavaScript, Python, Terraform
+AWS (Kinesis, ECS, Redshift, S3)
+```
+
 ### Reaktor 2016 - 2023
 
 Sovelluskehittäjä, konsultointi, Data Engineer ja Data Scientist.
